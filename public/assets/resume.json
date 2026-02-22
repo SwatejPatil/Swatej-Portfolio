@@ -1,0 +1,250 @@
+{
+    "profile": {
+        "name": "Swatej Patil",
+        "role": "SOC Analyst | Security Engineer",
+        "tagline": "Defending networks with a hacker's mindset | AI & Cybersecurity Teaching Fellow",
+        "location": "New York, NY",
+        "email": "swatej27@gmail.com",
+        "phone": "607-339-9549",
+        "links": {
+            "linkedin": "#",
+            "github": "#",
+            "portfolio": "#"
+        },
+        "summary": "Experienced SOC Analyst and Security Engineer with a strong background in threat detection, incident response, and security automation. Currently a Master of Engineering student at Cornell University."
+    },
+    "experience": [
+        {
+            "company": "Inspirit AI",
+            "role": "AI & Cybersecurity Teaching Fellow",
+            "date": "Jun 2025 – Jul 2025",
+            "description": "Delivered 10+ hands-on AI and cybersecurity workshops for high school students.",
+            "achievements": [
+                "Covered privacy, digital safety, and responsible tech use.",
+                "Developed lab guides and troubleshooting documentation that improved onboarding and reduced instructor support needs by 35%."
+            ],
+            "technologies": [
+                "AI",
+                "Cybersecurity Education"
+            ]
+        },
+        {
+            "company": "OutWorX Solutions",
+            "role": "Security Operations Analyst",
+            "date": "Feb 2023 – Feb 2024",
+            "description": "Monitored SIEM alerts and triaged 1k+ security events.",
+            "achievements": [
+                "Monitored SIEM alerts (Splunk, QRadar) involving malware, suspicious logins, and network anomalies.",
+                "Analyzed logs across Windows, Linux, firewall, and VPN systems to validate IOCs.",
+                "Executed incident response actions including containment, user deactivation, and IP blocking.",
+                "Conducted MITRE ATT&CK–aligned threat hunts identifying lateral movement patterns.",
+                "Prepared daily SOC reports and refined detection rules, reducing false positives by 18%."
+            ],
+            "technologies": [
+                "Splunk",
+                "QRadar",
+                "Windows",
+                "Linux",
+                "MITRE ATT&CK"
+            ]
+        },
+        {
+            "company": "SenseLive Technologies",
+            "role": "Web & Application Security Engineer",
+            "date": "Jan 2022 – Jan 2023",
+            "description": "Implemented RBAC, secure session handling, and encryption across an energy analytics platform.",
+            "achievements": [
+                "Implemented RBAC, secure session handling, and AES-based data encryption.",
+                "Performed API and web security assessments (Burp Suite, OWASP ZAP), identifying 18 critical vulnerabilities.",
+                "Conducted secure code reviews for Python/NodeJS services aligned to OWASP Top 10.",
+                "Enhanced AWS deployment security through IAM hardening and credential rotation.",
+                "Authored deployment runbooks and hardening guides for DevOps and security teams."
+            ],
+            "technologies": [
+                "Burp Suite",
+                "OWASP ZAP",
+                "Python",
+                "NodeJS",
+                "AWS IAM"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "category": "SIEM & Log Management",
+            "items": [
+                "Splunk",
+                "Wazuh",
+                "Elastic",
+                "ELK Stack",
+                "IBM QRadar",
+                "Microsoft Sentinel"
+            ]
+        },
+        {
+            "category": "Endpoint Security",
+            "items": [
+                "CrowdStrike Falcon",
+                "SentinelOne",
+                "Microsoft Defender"
+            ]
+        },
+        {
+            "category": "Tools & Scanners",
+            "items": [
+                "Nessus",
+                "Rapid7",
+                "Qualys",
+                "OpenVAS",
+                "Burp Suite",
+                "OWASP ZAP",
+                "Nmap",
+                "Wireshark",
+                "Metasploit"
+            ]
+        },
+        {
+            "category": "Cloud Security",
+            "items": [
+                "AWS (IAM, CloudTrail, GuardDuty)",
+                "Azure Security Center",
+                "Sentinel"
+            ]
+        },
+        {
+            "category": "Frameworks",
+            "items": [
+                "MITRE ATT&CK",
+                "NIST CSF",
+                "CIS Controls",
+                "SOC 2",
+                "ISO 27001",
+                "GDPR",
+                "PCI-DSS"
+            ]
+        },
+        {
+            "category": "Languages",
+            "items": [
+                "Python",
+                "PowerShell",
+                "Bash",
+                "SQL",
+                "Go",
+                "Rust"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Security Automation & SOAR Playbook",
+            "description": "Built end-to-end SOAR playbooks ingesting alerts and automating enrichment.",
+            "technologies": [
+                "Cortex XSOAR",
+                "Splunk SOAR",
+                "Python"
+            ],
+            "link": "#",
+            "image": "assets/images/placeholder.png",
+            "tags": [
+                "Automation",
+                "SOAR"
+            ]
+        },
+        {
+            "title": "Azure Sentinel SIEM & M365 Defender Lab",
+            "description": "Built Sentinel SIEM ingesting logs for unified identity threat monitoring.",
+            "technologies": [
+                "Sentinel",
+                "M365 Defender",
+                "KQL",
+                "Logic Apps"
+            ],
+            "link": "#",
+            "institution": "RTM Nagpur University",
+            "degree": "Bachelors of Engineering in Computer Science",
+            "date": "Aug 2018 – May 2022"
+        }
+    ],
+    "publications": [
+        {
+            "date": "Feb 2022",
+            "title": "Machine Learning Techniques for the Classification of Fake News",
+            "authors": "Swatej Patil, Suyog Vairagade & Dipti Theng",
+            "conference": "IEEE International Conference on Computational Intelligence and Computing Applications (ICCICA)",
+            "link": ""
+        },
+        {
+            "date": "Jul 2022",
+            "title": "Web Based Diabetes Prediction System Using Machine Learning(Accepted for Publications)",
+            "authors": "Mayur Patil, Swatej Patil, Prashant Singh & Kotadi Chinnaiah",
+            "conference": "IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+            "link": ""
+        },
+        {
+            "date": "Aug 2022",
+            "title": "Machine Learning & Deep Learning for Phishing Page Detection(Accepted for Publications)",
+            "authors": "Swatej Patil, Mayur Patil & Kotadi Chinnaiah",
+            "conference": "4th International Conference on Machine Learning, Image Processing, Network Security and Data Sciences (MIND)",
+            "link": ""
+        },
+        {
+            "date": "Aug 2022",
+            "title": "COVID-19 Detection Utilizing CT scans and X-ray Imaging (Submitted)",
+            "authors": "Swatej Patil, Rachna Thakur, Rutvik Balpande, Mayur Patil and Dipti Theng",
+            "conference": "3rd International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV)",
+            "link": ""
+        },
+        {
+            "date": "Nov 2021",
+            "title": "Machine Learning for the Classification of Fake News",
+            "authors": "Swatej Patil, and Dipti Theng",
+            "conference": "International Journal of Innovative Science and Research Technology, Volume 6, Issue 11, 2021",
+            "link": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Cornell University",
+            "degree": "Master of Engineering in Systems Engineering, Systems Security",
+            "date": "Aug 2024 – Dec 2025"
+        },
+        {
+            "institution": "RTM Nagpur University",
+            "degree": "Bachelors of Engineering in Computer Science",
+            "date": "Aug 2018 – May 2022"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Google Cybersecurity Certificate",
+            "issuer": "Google",
+            "date": "",
+            "status": "Completed"
+        },
+        {
+            "name": "Six Sigma Black Belt",
+            "issuer": "Exams/Institute",
+            "date": "",
+            "status": "Completed"
+        },
+        {
+            "name": "SSCP",
+            "issuer": "ISC2",
+            "date": "",
+            "status": "Completed"
+        },
+        {
+            "name": "CISSP Associate",
+            "issuer": "ISC2",
+            "date": "Expected 2026",
+            "status": "In Progress"
+        },
+        {
+            "name": "CompTIA Security+",
+            "issuer": "CompTIA",
+            "date": "Expected 2026",
+            "status": "In Progress"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Swatej | SOC Analyst Portfolio</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            // TryHackMe inspired palette
+            thm: {
+              dark: 'var(--thm-dark)', // Main background
+              card: 'var(--thm-card)', // Card/Panel background
+              green: 'var(--thm-green)', // Primary accent (Success/Prompt)
+              cyan: 'var(--thm-cyan)', // Secondary accent (Links/Highlights)
+              red: '#ff5d5d', // Error/Danger (Keep static or var if needed)
+              text: 'var(--thm-text)', // Main text
+              muted: 'var(--thm-muted)', // Secondary text
+              terminal: '#0f1419', // Terminal window background (Keep dark always for terminal feel?)
+            }
+          },
+          fontFamily: {
+            mono: ['"Fira Code"', 'monospace'], // For terminal text
+            sans: ['"Inter"', 'sans-serif'], // Main UI font
+          },
+          animation: {
+            'cursor-blink': 'blink 1s step-end infinite',
+          }
+        },
+      }
+    }
+  </script>
+</head>
+
+<body class="bg-thm-dark text-thm-text font-sans">
+  <app-root></app-root>
+</body>
+
+</html>
